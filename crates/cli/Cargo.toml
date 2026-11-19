@@ -1,0 +1,11 @@
+[package]
+name = "ntfs-rw-cli"
+version = "0.0.0"
+edition = "2024"
+description = "Command-line tool for inspecting and working with NTFS volumes and disk images, built on ntfs-rw. Early development."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/pamudusarasith/ntfs-rw"
+readme = "../../README.md"
+
+[dependencies]
+ntfs-rw = { path = "../core", version = "0.0.0" }

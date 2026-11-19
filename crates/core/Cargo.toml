@@ -1,0 +1,8 @@
+[package]
+name = "ntfs-rw"
+version = "0.0.0"
+edition = "2024"
+description = "An NTFS filesystem implementation in pure Rust, aiming for read and write support. Early development."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/pamudusarasith/ntfs-rw"
+readme = "../../README.md"
